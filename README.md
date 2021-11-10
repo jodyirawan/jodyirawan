@@ -5,7 +5,7 @@
 My Name Is **Jody Irawan**.
 
 - 🔭 I’m currently studying on Indonesian Computer University & Dicoding Academy
-- 🌱 I’m currently learning web delelover
+- 🌱 I’m currently learning Web Delelover & Machine Learning
 
 <p align="left">
 <a href="https://github.com/jodyirawan">
